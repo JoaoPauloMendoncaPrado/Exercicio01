@@ -1,3 +1,3 @@
 # Exercicio01
 Exercicio01 Senai
-Altere aqui!
+Altere aqui! OK! alterei rs.
